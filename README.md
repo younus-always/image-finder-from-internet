@@ -2,7 +2,7 @@
 
 A modern React + Vite web application that lets users search and browse high-quality free stock images using the Pexels API. Built with React 19, Vite, and Tailwind CSS, this project is fast, responsive, and developer-friendly.
 
-**🔗 Live Demo: https://image-finder-from-internet.netlify.app**
+**🔗 Live Demo: [Image Finder](https://image-finder-from-internet.netlify.app)**
 
 ### ✨ Features
 
@@ -76,6 +76,7 @@ VITE_PEXELS_API_KEY=your_pexels_api_key_here
 ```
 
 🔑 You can get a free API key from:
+
 👉 https://www.pexels.com/api/
 
 #### 4️⃣ Run the Development Server
@@ -151,12 +152,12 @@ This project is open-source and available for learning and personal use.
 
 ### 💙 Acknowledgements
 
-- [Pexels,"https://www.pexels.com"] for the amazing free stock images
+- [Pexels](https://www.pexels.com) for the amazing free stock images
 
 - React & Vite teams for the incredible tooling
 
 - Tailwind CSS
 
-⭐ If you like this project, give it a star and share it!
+#### ⭐ If you like this project, give it a star and share it!
 
 Happy coding 🚀
